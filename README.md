@@ -1,3 +1,3 @@
 ### Online Resume Template
 
-Demo  - http://www.flashbulb.in/rajasekarr-ui
+Demo  - http://www.flashbulb.in/rajasekar-ui
